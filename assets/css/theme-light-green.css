@@ -24,9 +24,8 @@
 /* #region Root */
 
 :root {
-    
-    --primary-color: #65FF00;
-    --secondary-color: #ceff1a;
+  --primary-color: #00ff55;
+  --secondary-color: #ceff1a;
 }
 
 /* #endregion Root */
