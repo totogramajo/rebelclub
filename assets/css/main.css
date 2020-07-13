@@ -3660,3 +3660,18 @@ footer .copyright p {
 }
 
 /* #endregion All Media Queries */
+
+
+/* Style CheckBox */
+
+#cbox2 {
+    text-align: start;
+    align-items: flex-start;
+    justify-content: start;
+    justify-self: start;
+    justify-items: start;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
