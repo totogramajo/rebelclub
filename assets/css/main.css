@@ -3664,14 +3664,16 @@ footer .copyright p {
 
 /* Style CheckBox */
 
-#cbox2 {
-    text-align: start;
-    align-items: flex-start;
-    justify-content: start;
+ input #cbox1, .toto  {
+    
+    align-items: initial !important;
+    justify-items: initial !important;
     justify-self: start;
-    justify-items: start;
-    font-size: small;
-    font-family: Arial, Helvetica, sans-serif;
+    justify-content: initial !important;
+    
     
 }
+
+
+
 
